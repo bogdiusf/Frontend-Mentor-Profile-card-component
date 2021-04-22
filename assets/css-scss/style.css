@@ -15,7 +15,6 @@ body {
   display: -ms-grid;
   display: grid;
   place-items: center;
-  overflow: none;
   background-image: url("../img/bg-pattern-top.svg"), url("../img/bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   background-position: bottom 35vh right 50vw, top 51vh left 48vw;
@@ -54,7 +53,6 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   z-index: 999;
-  overflow: hidden;
 }
 
 .container-row-1 {
@@ -142,17 +140,6 @@ body {
   border-radius: 50%;
   border: 5px solid white;
   margin-top: -15%;
-}
-
-#patternTop {
-  position: absolute;
-  top: -35%;
-}
-
-#patternBottom {
-  position: absolute;
-  left: 46%;
-  top: 55%;
 }
 
 @media (max-width: 375px) {
