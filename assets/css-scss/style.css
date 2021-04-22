@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-  width: 360px;
+  width: 330px;
   height: 400px;
   background-color: white;
   display: -ms-grid;
@@ -57,14 +57,15 @@ body {
 
 .container-row-1 {
   width: 100%;
-  height: 200px;
+  height: 260px;
   border-radius: 20px 20px 0 0;
   background: url("../img/bg-pattern-card.svg");
 }
 
 .container-row-2 {
   width: 100%;
-  height: 130px;
+  height: 200px;
+  border-bottom: 1px solid rgba(201, 197, 197, 0.35);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -83,11 +84,13 @@ body {
   margin-top: 30px;
   font-size: 18px;
   font-weight: 700;
+  color: #2d3248;
 }
 
 .container-row-2 > p:nth-child(1) > span {
   margin-left: 10px;
   font-weight: 400;
+  color: #6a6f81;
 }
 
 .container-row-2 > p:nth-child(2) {
@@ -97,9 +100,8 @@ body {
 
 .container-row-3 {
   width: 100%;
-  height: 140px;
+  height: 165px;
   border-radius: 0 0 20px 20px;
-  border-top: 1.99px solid rgba(201, 197, 197, 0.35);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -108,6 +110,7 @@ body {
           align-items: center;
   text-align: center;
   font-family: 'Kumbh Sans', sans-serif;
+  width: 90%;
 }
 
 .container-row-3-col {
