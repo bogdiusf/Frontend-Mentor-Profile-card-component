@@ -21,9 +21,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](https://github.com/bogdiusf/Frontend-Mentor-Profile-card-component/blob/master/assets/img/desktop-view.png)
-[Desktop view]
-![]((https://github.com/bogdiusf/Frontend-Mentor-Profile-card-component/blob/master/assets/img/mobile-view.png)
+![](https://github.com/bogdiusf/Frontend-Mentor-Profile-card-component/blob/master/assets/img/desktop-view.png)\
+[Desktop view]\
+![](https://github.com/bogdiusf/Frontend-Mentor-Profile-card-component/blob/master/assets/img/mobile-view.png)\
 [Mobile view]
 
 ### Links
