@@ -35,8 +35,8 @@ body {
 }
 
 .container {
-  width: 330px;
-  height: 400px;
+  width: 360px;
+  height: 380px;
   background-color: white;
   display: -ms-grid;
   display: grid;
